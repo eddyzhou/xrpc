@@ -1,0 +1,14 @@
+*.pyc
+*.pyo
+.*
+#*
+.*
+!.gitignore
+*.db
+*.tar
+*.log
+
+build/
+dist/
+*.egg-info/
+
